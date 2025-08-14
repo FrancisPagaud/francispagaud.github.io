@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <p style="font-size:90%;"><a href='#'>Affiliations</a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma<\p>
+subtitle: <p style="font-size:90%;"><a href='https://caps.ethz.ch/'><ins>CAPS, ETH Zürich</ins></a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma</p>
 
 profile:
   align: right
