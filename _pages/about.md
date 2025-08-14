@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: <p style="font-size:90%;"><a href='#'>Affiliations</a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma<\p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    555 your office number
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
