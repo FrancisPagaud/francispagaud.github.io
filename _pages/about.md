@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ML J 43</p>
-    <p>Sonneggstrasse 3</p>
+    <p>ML J 43, Sonneggstrasse 3</p>
     <p>8092 Zürich, Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,8 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website. I am a French researcher in Fluid Mechanics, currently working at <b>CAPS (ETH Zürich, Switzerland)</b> on flow physics and hydrogen combustion. I focus mainly on fundamental aspects of thermoacoustic and aeroacoustic instabilities, using experimental and numerical methods.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also have a cold plasma expertise following my PhD at Laboratoire de Physique à l'ENS de Lyon, France. I studied plasma-surface interactions and plasma instabilities through high-speed imaging and modal decomposition. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My second passion is teaching and science popularization, and I am currently Teaching Assistant in Thermodynamics II at ETH Zürich. 
+
+You are more than welcome to send me an e-mail if you want to discuss any of these topics with me.
+
+<i>This site is under construction, patience s'il-vous-plait !</i>
