@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <p style="font-size:90%;"><a href='https://caps.ethz.ch/'><ins>CAPS, ETH Zürich</ins></a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma</p>
+subtitle: <p style="font-size:90%;">Post-doctoral researcher, <a href='https://caps.ethz.ch/'><ins>CAPS, ETH Zürich</ins></a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma</p>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    555 your office number
+    <p>555 your office number</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
