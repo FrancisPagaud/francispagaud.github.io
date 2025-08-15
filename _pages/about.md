@@ -5,13 +5,13 @@ permalink: /
 subtitle: <p style="font-size:90%;">Post-doctoral researcher, <a href='https://caps.ethz.ch/'><ins>CAPS, ETH Zürich</ins></a> | Fluid mechanics | Wave physics | Hydrogen combustion | Aeroacoustics | Cold plasma</p>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>ML J 43</p>
+    <p>Sonneggstrasse 3</p>
+    <p>8092 Zürich, Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
