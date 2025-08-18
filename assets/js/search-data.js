@@ -482,13 +482,6 @@ ninja.data = [{
           window.open("https://github.com/FrancisPagaud", "_blank");
         },
       },{
-        id: 'social-scopus',
-        title: 'Scopus',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=58664593500", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
