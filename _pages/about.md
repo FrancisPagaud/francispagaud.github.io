@@ -32,4 +32,6 @@ I also have a cold plasma expertise following my PhD at Laboratoire de Physique 
 
 My second passion is teaching and science popularization, and I am currently Teaching Assistant in Thermodynamics II at ETH Zürich. 
 
-In my personal life, I am into rugby, badminton, outdoor activities, music and books. You are more than welcome to send me an e-mail if you want to discuss any of these topics with me.
+In my personal life, I am into rugby, badminton, outdoor activities, music and books. 
+
+You are more than welcome to send me an e-mail if you want to discuss any of these topics with me!
