@@ -10,6 +10,8 @@
 email: fpagaud@ethz.ch # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
+orcid_id: 0009-0002-0005-5063 # your ORCID ID
+scholar_userid: R7Ct8CwAAAAJ # your Google Scholar ID
 linkedin_username: francis-pagaud-7433b014a # your LinkedIn user name
 github_username: FrancisPagaud # your GitHub user name
 # gitlab_username: # your GitLab user name
@@ -24,14 +26,13 @@ github_username: FrancisPagaud # your GitHub user name
 # leetcode_id: # your LeetCode id
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0009-0002-0005-5063 # your ORCID ID
+
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: R7Ct8CwAAAAJ # your Google Scholar ID
 scopus_id: 58664593500 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
