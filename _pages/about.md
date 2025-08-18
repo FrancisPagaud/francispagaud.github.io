@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -33,5 +33,3 @@ I also have a cold plasma expertise following my PhD at Laboratoire de Physique 
 My second passion is teaching and science popularization, and I am currently Teaching Assistant in Thermodynamics II at ETH Zürich. 
 
 In my personal life, I am into rugby, badminton, outdoor activities, music and books. You are more than welcome to send me an e-mail if you want to discuss any of these topics with me.
-
-<i>This site is under construction, patience s'il-vous-plait!</i>

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-14 09:30:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+New template for my personal website! The site is under construction, <i>patience s'il-vous-plait</i>.
