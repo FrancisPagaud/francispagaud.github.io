@@ -2,12 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Francis
 middle_name:
 last_name: Pagaud
 contact_note: >
-  #You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website. You will find a summary of my research themes, publications, teaching activities, ongoing projects and my CV.
 footer_text: >
