@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: f_pagaud_cv.pdf # you can also use external links here
-description: This is a summary of my CV. You can find the complete version by clicking the PDF icon in top right corner. ↗️
+description: This is my CV summary. You can find the complete version by clicking the PDF icon in the top right corner ↗️
 toc:
   sidebar: left
 ---
