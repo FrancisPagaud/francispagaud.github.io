@@ -13,15 +13,15 @@
   contents:
     - title: PhD
       institution: Laboratoire de Physique à l'ENS de Lyon, France
-      year: 01.09.2021 - 31.08.2024
+      year: 09.2021-08.2024
       description:
-        - <b>Control and stability of magnetised plasma columns: plasma-cathode interactions and helicon plasma operation.</b> 
+        - <p><b>Control and stability of magnetised plasma columns: plasma-cathode interactions and helicon plasma operation.</b></p>
         - <i>Awarded a CDSN doctoral grant. </i>Supervisor: Nicolas Plihon.
         - Graduation date: 1st July 2024
 
     - title: Master's degree
       institution: Ecole Normale Supérieure de Lyon, France
-      year: 01.09.2018 - 31.07.2021
+      year: 09.2018-07.2021
       description: Fundamental and experimental physics.
 
     - title: Professeur agrégé
@@ -42,7 +42,7 @@
   contents:
     - title: Post-doctoral researcher
       institution: CAPS, ETH Zürich, Switzerland
-      year: 01.11.2024 - now
+      year: 11.2024-now
       description: Study low Mach aeroacoustic instabilities and hydrogen combustion thermoacoustic instabilities.
 
     - title: PhD candidate
@@ -52,17 +52,17 @@
 
     - title: Research assistant
       institution: SPC, Ecole Polytechnique Fédérale de Lausanne, Switzerland
-      year: 01.04.2021 - 31.07.2021
+      year: 04.2021-07.2021
       description: Implement an inductive plasma source and design new double Langmuir probe for reliable plasma properties measurements.
 
     - title: Research assistant
       institution: Garbin Lab, Imperial College London, Great Britain
-      year: 01.05.2019 - 31.07.2019
+      year: 05.2019-07.2019
       description: Study ultrastable lipidic foams stabilized by adsorbed wax crystals.
 
     - title: Research assistant
       institution: PMMH, ESPCI Paris, France
-      year: 01.06.2018 - 31.07.2018
+      year: 06.2018-07.2018
       description: Explore the biophysical mechanisms behind cell migration.
 
 - title: Open Source Projects
@@ -86,14 +86,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Hydrogen combustion
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Fluid mechanics instabilities
       items:
         - Description 1.
         - Description 2.
+    - title: Cold plasma
+      items:
+        - Radiofrequency sources and diagnostics
+        - Plasma-surface interactions
+        - Instabilities
 
 - title: Other Interests
   type: list
