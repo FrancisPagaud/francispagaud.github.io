@@ -26,7 +26,7 @@
 
     - title: Professeur agrégé
       institution: Ministère français de l'Education Nationale
-      year: 07.2020
+      year: "07.2020"
       description:
         - Foundation in fundamental physics and teaching.
         - "Topics covered: optics, electromagnetism, classic and quantum mechanics, thermodynamics, electronics, organic and incorganic chemistry."
