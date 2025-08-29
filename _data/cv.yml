@@ -3,10 +3,10 @@
   contents:
     - name: Name
       value: Francis Pagaud
-    - name: Birth
-      value: 19th September 1997
-    - name: Languages
-      value: French, English, German (B2), Spanish (B1)
+    - name: Email
+      value: <a href="mailto:fpagaud@ethz.ch">fpagaud@ethz.ch</a>
+    - name: Office address
+      value: ETH Zentrum, ML J 43, Sonneggstrasse 3, 8092 Zürich, Switzerland
 
 - title: Education
   type: time_table
@@ -15,9 +15,9 @@
       institution: Laboratoire de Physique à l'ENS de Lyon, France
       year: 09.2021-08.2024
       description:
-        - <p><b>Control and stability of magnetised plasma columns: plasma-cathode interactions and helicon plasma operation.</b></p>
-        - <i>Awarded a CDSN doctoral grant. </i>Supervisor: Nicolas Plihon.
-        - Graduation date: 1st July 2024
+        - "<b>Control and stability of magnetised plasma columns: plasma-cathode interactions and helicon plasma operation.</b>"
+        - Supervised by Nicolas Plihon.
+        - "Graduation date: 1st July 2024"
 
     - title: Master's degree
       institution: Ecole Normale Supérieure de Lyon, France
@@ -29,12 +29,12 @@
       year: 07.2020
       description:
         - Foundation in fundamental physics and teaching.
-        - Topics covered: optics, electromagnetism, classic and quantum mechanics, thermodynamics, electronics, organic and incorganic chemistry.
-        - Passed the highly selective "Agrégation" teaching exam. Ranking: 2nd/1069.
+        - "Topics covered: optics, electromagnetism, classic and quantum mechanics, thermodynamics, electronics, organic and incorganic chemistry."
+        - "Passed the highly selective <i>Agrégation</i> teaching exam. Ranking: 2nd/1069."
 
     - title: Bachelor's degree
       institution: Ecole Normale Supérieure de Lyon, France
-      year: 01.09.2017 - 31.07.2018
+      year: 09.2017-07.2018
       description: Normalian cursus at ENS de Lyon. Fundamental physics and applications.
 
 - title: Experience
@@ -47,7 +47,7 @@
 
     - title: PhD candidate
       institution: Laboratoire de Physique à l'ENS de Lyon, France
-      year: 01.09.2021 - 31.08.2024
+      year: 09.2021-08.2024
       description: Investigate plasma-surface interactions, identify waves and instabilities and understand energy transport in a rotating plasma column.
 
     - title: Research assistant
@@ -65,42 +65,64 @@
       year: 06.2018-07.2018
       description: Explore the biophysical mechanisms behind cell migration.
 
-- title: Open Source Projects
+- title: Teaching activities
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching assistant, Thermodynamics II, ETH Zürich
+      year: 02.2025-now
+      description: Exercise session and tutoring for Bachelor students.
+
+    - title: Teaching assistant, Fluid mechanics, ENS de Lyon
+      year: 09.2023-01.2024
+      description: Exercise session and tutoring for Master students.
+
+    - title: Teaching assistant, Agrégation formation, ENS de Lyon
+      year: 09.2021-07.2024
+      description: Practical sessions, oral and written examination and tutoring of Master students.
+
+    - title: Oral session examiner, CPGE, ENS de Lyon
+      year: 09.2021-07.2023
+      description: Weekly oral examination and tutoring of undergraduate students.
+
+    - title: Oral session examiner, Prépa PT, Lycée La Martinière Monplaisir
+      year: 09.2020-07.2021
+      description: Weekly oral examination of undergraduate students.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best oral contribution (GDR EMILI 2023)
+        - Internal laboratory mobility grant (Collaboration with SPC, Lausanne)
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Best poster presentation (EPS Plasma 2022)
+    - year: 2021
+      items:
+        - Competitive public doctoral Fellowship (<i>Contrat Spécifique Doctoral Normalien</i>)
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Hydrogen combustion
       items:
-        - Description 1.
-        - Description 2.
+        - Optical diagnostics for flame characterization
+        - Thermoacoustic instabilities
+        - Reactive flow LES
+        - Low-order modeling
     - title: Fluid mechanics instabilities
       items:
-        - Description 1.
-        - Description 2.
+        - Low Mach aeroacoustic instabilities
+        - Compressible LES
     - title: Cold plasma
       items:
         - Radiofrequency sources and diagnostics
         - Plasma-surface interactions
-        - Instabilities
+        - Waves and instabilities
 
-- title: Other Interests
+- title: Other Interests and Skills
   type: list
   contents:
     - <u>Hobbies:</u> Rugby, outdoor activities, cinema, books, music
+    - <u>Language:</u> French (native), English (fluent), German (B2), Spanish (B1)
