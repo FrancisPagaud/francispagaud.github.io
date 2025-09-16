@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-communication",
+          title: "Communication",
+          description: "My collection of communication materials in conferences and science outreach.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is my CV summary. You can find the complete version by clicking the PDF icon in the top right corner ↗️",
@@ -401,9 +408,9 @@ ninja.data = [{
             },},{id: "news-new-template-for-my-personal-website-the-site-is-under-construction-patience-s-il-vous-plait",
           title: 'New template for my personal website! The site is under construction, patience s’il-vous-plait....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-emissive-cathode-immersed-in-a-plasma",
+          title: 'Emissive cathode immersed in a plasma',
+          description: "Poster presented at EPS Plasma 2023.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
