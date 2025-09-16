@@ -408,12 +408,7 @@ ninja.data = [{
             },},{id: "news-new-template-for-my-personal-website-the-site-is-under-construction-patience-s-il-vous-plait",
           title: 'New template for my personal website! The site is under construction, patience s’il-vous-plait....',
           description: "",
-          section: "News",},{id: "projects-emissive-cathode-immersed-in-a-plasma",
-          title: 'Emissive cathode immersed in a plasma',
-          description: "Poster presented at EPS Plasma 2023.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -453,6 +448,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
+          title: 'Emissive cathode immersed in a plasma',
+          description: "Poster on the plasma-cathode dymanic system.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pyro_poster/";
             },},{
         id: 'social-email',
         title: 'email',

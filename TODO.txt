@@ -1,0 +1,7 @@
+List of upgrades to come:
+
+-Update all my posters and presentations ready for open access. Each poster project should contain the image and the pdf of the poster. The PDFs could be made available with a top roght corner icon like CV.
+-Change the description to something more formal.
+-For presentations, it should display the first slide and the .PDF and .PPT files should be made public.
+
+-Teaching part: I would like to list all my agregation files and .Py codes. Ideally I display my previous teaching activities materials.
