@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Communication
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My collection of communication materials in conferences and science outreach.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Posters, Presentations]
 horizontal: false
 ---
 
