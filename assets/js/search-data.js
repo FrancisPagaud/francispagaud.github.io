@@ -453,6 +453,11 @@ ninja.data = [{
           description: "Poster on the plasma-cathode dymanic system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyro_poster/";
+            },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
+          title: 'Emissive cathode immersed in a plasma',
+          description: "Poster on the plasma-cathode dymanic system.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pyro_poster_old/";
             },},{
         id: 'social-email',
         title: 'email',
