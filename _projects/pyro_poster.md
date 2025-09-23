@@ -19,5 +19,7 @@ related_publications: true
 </div>
 
 The current extracted from a tungsten hot filament could be unsteady, with a puzzling runaway behaviour leading to extreme current injection in the plasma. This unexpected behavior can hinder the use of hot cathodes as a new plasma control tool. 
+
 As revealed by pyrometry experiments, temperature profile exhibits strong heterogeneities. And the main reason is: electrons prgoressively leave the metal to enter the plasma, leading to a decreasing current in the filament along its length. We developed a thorough model of the plasma-cathode dynamic system to understand and characterize the operating regimes. 
-This poster is accompanied by a publication in <i>Plasma Sources Science and Technology</i> {% cite PSST_2023 %}. It was presented at EPS Plasma 2023 (Bordeaux, Lyon).
+
+This poster is accompanied by a publication in <i>Plasma Sources Science and Technology</i> {% cite PSST_2023 %}. It was presented at <u>EPS Plasma 2023</u> (Bordeaux, France).
