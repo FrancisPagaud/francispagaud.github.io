@@ -448,6 +448,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-ondes-et-turbulence-dans-un-plasma-magnétisé",
+          title: 'Ondes et turbulence dans un plasma magnétisé',
+          description: "Poster d&#39;introduction à la physique des plasmas magnétisés destinés aux étudiants de License.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/L3_poster/";
             },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
           title: 'Emissive cathode immersed in a plasma',
           description: "Poster on the plasma-cathode dymanic system.",
@@ -458,6 +463,11 @@ ninja.data = [{
           description: "Poster on the plasma-cathode dymanic system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyro_poster_old/";
+            },},{id: "projects-plasma-potential-control-using-an-emissive-cathode",
+          title: 'Plasma potential control using an emissive cathode',
+          description: "Poster on the hot cathode as an innovative plasma control tool.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vp_poster/";
             },},{
         id: 'social-email',
         title: 'email',
