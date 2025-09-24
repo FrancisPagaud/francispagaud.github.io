@@ -6,7 +6,7 @@ img: assets/img/Plasma_sideview_crop.png
 importance: 2
 category: Posters
 related_publications: true
-cv_pdf:poster_vp.pdf
+pdf: poster_vp.pdf
 ---
 
 

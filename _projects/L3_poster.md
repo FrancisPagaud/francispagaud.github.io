@@ -6,7 +6,7 @@ img: assets/img/long_probe_crop.png
 importance: 3
 category: Posters
 related_publications: false
-cv_pdf: poster_L3.pdf
+pdf: poster_L3.pdf
 ---
 
 <i>This poster is intended for Bachelor students at ENS de Lyon at the yearly presentation of the Laboratoire de Physique.</i>

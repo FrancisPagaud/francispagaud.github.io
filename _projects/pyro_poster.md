@@ -6,7 +6,7 @@ img: assets/img/_DSC3099_crop.png
 importance: 1
 category: Posters
 related_publications: true
-cv_pdf: poster_pyro.pdf
+pdf: poster_pyro.pdf
 ---
 
 
