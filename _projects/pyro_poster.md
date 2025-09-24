@@ -6,6 +6,7 @@ img: assets/img/_DSC3099_crop.png
 importance: 1
 category: Posters
 related_publications: true
+cv_pdf: poster_pyro.pdf
 ---
 
 
@@ -23,3 +24,10 @@ The current extracted from a tungsten hot filament could be unsteady, with a puz
 As revealed by pyrometry experiments, temperature profile exhibits strong heterogeneities. And the main reason is: electrons prgoressively leave the metal to enter the plasma, leading to a decreasing current in the filament along its length. We developed a thorough model of the plasma-cathode dynamic system to understand and characterize the operating regimes. 
 
 This poster is accompanied by a publication in <i>Plasma Sources Science and Technology</i> {% cite PSST_2023 %}. It was presented at <u>EPS Plasma 2023</u> (Bordeaux, France).
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/poster_pyro.png" title="Pyrometer poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
