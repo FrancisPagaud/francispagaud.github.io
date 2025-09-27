@@ -453,11 +453,21 @@ ninja.data = [{
           description: "Poster d&#39;introduction à la physique des plasmas magnétisés destinés aux étudiants de Licence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/L3_poster/";
+            },},{id: "projects-plasma-potential-control-using-an-emissive-cathode",
+          title: 'Plasma potential control using an emissive cathode',
+          description: "Poster on hot cathode as an innovative plasma control tool.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/phd_talk/";
             },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
           title: 'Emissive cathode immersed in a plasma',
           description: "Poster on the plasma-cathode dymanic system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyro_poster/";
+            },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
+          title: 'Emissive cathode immersed in a plasma',
+          description: "Talk on the plasma-cathode dymanic system.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pyro_talk/";
             },},{id: "projects-plasma-potential-control-using-an-emissive-cathode",
           title: 'Plasma potential control using an emissive cathode',
           description: "Poster on hot cathode as an innovative plasma control tool.",
