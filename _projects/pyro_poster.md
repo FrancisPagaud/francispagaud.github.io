@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emissive cathode immersed in a plasma
-description: Poster on the plasma-cathode dymanic system. 
+description: Poster on the plasma-cathode dynamic system. 
 img: assets/img/_DSC3099_crop.png
 importance: 1
 category: Posters
