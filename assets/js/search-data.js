@@ -408,64 +408,24 @@ ninja.data = [{
             },},{id: "news-new-template-for-my-personal-website-the-site-is-under-construction-patience-s-il-vous-plait",
           title: 'New template for my personal website! The site is under construction, patience s’il-vous-plait....',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-ondes-et-turbulence-dans-un-plasma-magnétisé",
+          section: "News",},{id: "projects-ondes-et-turbulence-dans-un-plasma-magnétisé",
           title: 'Ondes et turbulence dans un plasma magnétisé',
           description: "Poster d&#39;introduction à la physique des plasmas magnétisés destinés aux étudiants de Licence.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/L3_poster/";
-            },},{id: "projects-plasma-potential-control-using-an-emissive-cathode",
-          title: 'Plasma potential control using an emissive cathode',
-          description: "Poster on hot cathode as an innovative plasma control tool.",
+            },},{id: "projects-control-and-stability-of-magnetized-plasma-columns",
+          title: 'Control and stability of magnetized plasma columns',
+          description: "PhD defence presentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/phd_talk/";
             },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
           title: 'Emissive cathode immersed in a plasma',
-          description: "Poster on the plasma-cathode dymanic system.",
+          description: "Poster on the plasma-cathode dynamic system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyro_poster/";
-            },},{id: "projects-emissive-cathode-immersed-in-a-plasma",
-          title: 'Emissive cathode immersed in a plasma',
-          description: "Talk on the plasma-cathode dymanic system.",
+            },},{id: "projects-operation-and-stability-of-an-emissive-cathode-in-a-plasma",
+          title: 'Operation and stability of an emissive cathode in a plasma',
+          description: "Talk on the plasma-cathode dynamic system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pyro_talk/";
             },},{id: "projects-plasma-potential-control-using-an-emissive-cathode",
