@@ -4,9 +4,9 @@ title: Control and stability of magnetized plasma columns
 description: PhD defence presentation
 img: assets/img/helicon_vortex_crop.png
 importance: 1
-category: Presentationsssss
+category: Presentations
 related_publications: true
-pdf: poster_vp.pdf
+pdf: PhD_defence.pdf
 ---
 
 <i>The talk PDF is written in French. It is available in the top right corner. </i>
